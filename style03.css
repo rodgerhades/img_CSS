@@ -1,0 +1,11 @@
+/* Documento CSS */
+
+body {
+	background-color:#696969; background-image:url("img/Guitarra-de-Ouro.jpg");/* fundo da página*/
+}
+
+p {
+	font-family:arial; font-weight:bold; font-size:30px; color:#ffffff; /* parágrafo */
+	text-align:left; text-decoration:line-through; text-indent:230px;
+}
+ 
